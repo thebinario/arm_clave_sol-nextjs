@@ -1,2 +1,2 @@
 run = 'npm run dev'
-entrypoint = 'pages/index.js'
+entrypoint = 'src/pages/index.js'

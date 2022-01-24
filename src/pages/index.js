@@ -18,7 +18,7 @@ export default function Home() {
         </h1>
 
 				<Box boxSize='sm'>
-					<Image src='https://juarezbarcellos.files.wordpress.com' alt='Armadura de sol' />
+					<Image src='/armaduras-de-claves.jpg' alt='Armadura de sol' />
 				</Box>
 
 			</main>
